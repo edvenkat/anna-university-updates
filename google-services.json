@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851180326603",
+    "firebase_url": "https://anna-university-updates.firebaseio.com",
+    "project_id": "anna-university-updates",
+    "storage_bucket": "anna-university-updates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851180326603:android:26ae347304ea0b95",
+        "android_client_info": {
+          "package_name": "com.annauniversity.updates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851180326603-75ts6p5mh6im76r4l38f2u5lvs8524il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOjUPRKGal0avA97VawnGn0t_XNtaqIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
